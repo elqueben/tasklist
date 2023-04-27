@@ -1,0 +1,11 @@
+#heading {
+    padding-top: 1.5rem;
+    padding-bottom: .5rem;
+    text-align: center;
+}
+
+#input {
+    flex-direction: 0 0 1;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}

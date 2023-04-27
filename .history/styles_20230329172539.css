@@ -1,0 +1,50 @@
+body {
+    background-color: #1C282E ;
+}
+
+input, button {
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+#heading {
+    padding-top: 1.5rem;
+    padding-bottom: .5rem;
+    text-align: center;
+    color: #A1AFCA
+}
+
+#input {  
+    text-align: center;
+    display: flex;
+    padding-right: 15%;
+}
+
+#button {
+    padding-left:.75rem;
+}
+
+#todo {
+    flex: 1 1 0%;
+    background-color: #273F4B;
+    color: #A1AFCA;
+    margin-left: 20%;
+    height: 2.5rem;
+    border-radius: .75rem;
+    padding-left: .5rem;
+}
+
+
+#new {
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+#newtask {
+    /*border: hidden;*/
+    padding-top: .25rem;
+    
+
+}

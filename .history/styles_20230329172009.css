@@ -1,0 +1,39 @@
+body {
+    background-color: #1C282E ;
+}
+
+input, button {
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+#heading {
+    padding-top: 1.5rem;
+    padding-bottom: .5rem;
+    text-align: center;
+    color: #A1AFCA
+}
+
+#input { 
+    padding-right: 15%;
+}
+
+#todo {
+    
+    background-color: #2B4C5D;
+    color: #A1AFCA;
+}
+
+
+#new {
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+#newtask {
+    /*border: hidden;*/
+    padding-top: .25rem;
+
+}

@@ -1,0 +1,20 @@
+#heading {
+    padding-top: 1.5rem;
+    padding-bottom: .5rem;
+    text-align: center;
+}
+
+#input {  
+    text-align: center;
+    background-color: red;
+}
+
+#todo {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#button {
+    margin-right: 25%;
+}
+
